@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_cdltd_loaner_req.loaner_request_user" name="x_cdltd_loaner_req.loaner_request_user">e9ac36169f3222107f448196ab24abdc</contains>
+        <role display_value="x_cdltd_loaner_req.admin" name="x_cdltd_loaner_req.admin">637097379f7622107f448196ab24abab</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 20:32:23</sys_created_on>
+        <sys_id>bad0d7b39f7622107f448196ab24ab6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.loaner_request_user.x_cdltd_loaner_req.admin</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2b5cfa169f3222107f448196ab24ab42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2b5cfa169f3222107f448196ab24ab42</sys_scope>
+        <sys_update_name>sys_user_role_contains_bad0d7b39f7622107f448196ab24ab6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 20:32:23</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

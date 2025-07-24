@@ -18,14 +18,14 @@
         <query>active=false^EQ</query>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-07-20 03:17:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7a9df2969f3222107f448196ab24ab9a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Closed</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2b5cfa169f3222107f448196ab24ab42</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Loaner Request">2b5cfa169f3222107f448196ab24ab42</sys_scope>
         <sys_update_name>sys_app_module_7a9df2969f3222107f448196ab24ab9a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-20 04:01:31</sys_updated_on>
+        <sys_updated_on>2025-07-24 20:43:11</sys_updated_on>
         <timeline_page/>
         <title>Closed</title>
         <uncancelable>false</uncancelable>
